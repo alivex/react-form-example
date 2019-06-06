@@ -1,0 +1,723 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader opens correctly when form is disabled 1`] = `
+<Portal
+  containerInfo={
+    <div
+      style="position: relative; z-index: 1050;"
+      tabindex="-1"
+    >
+      <div
+        class=""
+      >
+        <div
+          class="modal fade"
+          role="dialog"
+          style="display: block;"
+          tabindex="-1"
+        >
+          <div
+            class="modal-dialog modal-dialog-centered"
+            role="document"
+          >
+            <div
+              class="modal-content"
+            >
+              <div
+                class="modal-body"
+              >
+                <div
+                  class="spinner-grow text-primary"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-dark"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-secondary"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-info"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-warning"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-success"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-danger"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-success"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-danger"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-warning"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-info"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-secondary"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-dark"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-primary"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="modal-backdrop fade"
+        />
+      </div>
+    </div>
+  }
+>
+  <div
+    className=""
+  >
+    <div
+      className="modal fade"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      role="dialog"
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      tabIndex="-1"
+    >
+      <div
+        className="modal-dialog modal-dialog-centered"
+        role="document"
+      >
+        <div
+          className="modal-content"
+        >
+          <div
+            className="modal-body"
+          >
+            <div
+              className="spinner-grow text-primary"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-dark"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-secondary"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-info"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-warning"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-success"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-danger"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-success"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-danger"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-warning"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-info"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-secondary"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-dark"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-primary"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="modal-backdrop fade"
+    />
+  </div>
+</Portal>
+`;
+
+exports[`Loader opens correctly when submit 1`] = `
+<Portal
+  containerInfo={
+    <div
+      style="position: relative; z-index: 1050;"
+      tabindex="-1"
+    >
+      <div
+        class=""
+      >
+        <div
+          class="modal fade"
+          role="dialog"
+          style="display: block;"
+          tabindex="-1"
+        >
+          <div
+            class="modal-dialog modal-dialog-centered"
+            role="document"
+          >
+            <div
+              class="modal-content"
+            >
+              <div
+                class="modal-body"
+              >
+                <div
+                  class="spinner-grow text-primary"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-dark"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-secondary"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-info"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-warning"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-success"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-danger"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-success"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-danger"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-warning"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-info"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-secondary"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-grow text-dark"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+                <div
+                  class="spinner-border text-primary"
+                  role="status"
+                >
+                  <span
+                    class="sr-only"
+                  >
+                    Loading...
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="modal-backdrop fade"
+        />
+      </div>
+    </div>
+  }
+>
+  <div
+    className=""
+  >
+    <div
+      className="modal fade"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      role="dialog"
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      tabIndex="-1"
+    >
+      <div
+        className="modal-dialog modal-dialog-centered"
+        role="document"
+      >
+        <div
+          className="modal-content"
+        >
+          <div
+            className="modal-body"
+          >
+            <div
+              className="spinner-grow text-primary"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-dark"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-secondary"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-info"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-warning"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-success"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-danger"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-success"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-danger"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-warning"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-info"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-secondary"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-grow text-dark"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+            <div
+              className="spinner-border text-primary"
+              role="status"
+            >
+              <span
+                className="sr-only"
+              >
+                Loading...
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="modal-backdrop fade"
+    />
+  </div>
+</Portal>
+`;
+
+exports[`renders component 1`] = `
+<form
+  class="form"
+/>
+`;
+
+exports[`renders form component 1`] = `
+<form
+  class="form"
+/>
+`;
